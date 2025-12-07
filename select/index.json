@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "上海ロマンス[Japan Ver.]",
+  "base_artist": "ORANGE CARAMEL",
+  "createdAt": "2025-12-07T11:31:10.239801Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "上海ロマンス - Japan Ver.",
+      "artist": "Orange Caramel",
+      "has_synced": false,
+      "path": "select/01_上海ロマンス_-_Japan_Ver._Orange_Caramel.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "上海ロマンス (Japan Ver.)",
+      "artist": "Orange Caramel",
+      "has_synced": false,
+      "path": "select/02_上海ロマンス_(Japan_Ver.)_Orange_Caramel.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "上海ロマンス[Japan Ver.]",
+      "artist": "Orange Caramel",
+      "has_synced": false,
+      "path": "select/pl_01_上海ロマンス[Japan_Ver.]_Orange_Caramel.txt"
+    }
+  ]
+}
